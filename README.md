@@ -23,7 +23,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Hi, ako si [PANGALAN MO]</h1>
+        <h1>Hi, ako si [Nelson flores O]</h1>
         <img src="https://via.placeholder.com/150" alt="Profile Picture">
         <p>Welcome sa aking unang website gamit ang GitHub Pages!</p>
     </div>
